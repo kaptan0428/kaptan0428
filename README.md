@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaptan Singh</h1>
-<h3 align="center">Just love to write codes</h3>
+<h3 align="center">Passionate about crafting elegant solutions through code</h3>
 
 - 💬 Ask me about **Java - Spring Boot**
 
