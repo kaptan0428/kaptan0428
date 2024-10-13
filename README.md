@@ -4,6 +4,7 @@
 - 💬 Ask me about **Java - Spring Boot**
 
 - 📫 How to reach me **kaptan.singh5084@gmail.com**
+- --
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -20,6 +21,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kaptan01" height="30" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+- --
 
 <h3 align="center">Languages:</h3>
 <p align="center">
@@ -40,6 +43,8 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+- --
+
 <h3 align="center">Frameworks:</h3>
 <p align="center">
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
@@ -49,6 +54,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="hibernate" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+- --
 
 <h3 align="center">Databases:</h3>
 <p align="center">
@@ -63,6 +70,8 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+- --
+
 <h3 align="center">Tools:</h3>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -74,6 +83,8 @@
   <a href="https://swagger.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+- --
 
   <h3 align="center">IDs:</h3>
 <p align="center">
